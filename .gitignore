@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+#C# files
+bin/
+obj/
+*.vsidx
+*.lock
+*.dtbcache.*
+v17/
+ProjectEvaluation/

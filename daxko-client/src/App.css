@@ -1,0 +1,21 @@
+html{
+    padding-bottom: 60px;
+}
+
+.donation-selector {
+    margin-bottom: 15px;
+}
+
+.donation-button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.donate-button-container {
+    text-align: center;
+}
+
+.powered-by {
+    background-color: white;
+    text-align: center;
+}
